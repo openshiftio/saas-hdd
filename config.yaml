@@ -1,0 +1,7 @@
+contexts:
+- data:
+    output_dir: hdd-processed
+    services_dir: hdd-services
+    templates_dir: hdd-templates
+  name: hdd
+current: hdd
