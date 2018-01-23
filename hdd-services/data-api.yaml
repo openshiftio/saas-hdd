@@ -1,6 +1,6 @@
 services:
 - hash: None
   hash_length: 7
-  name: supervisor
+  name: data-api
   path: /openshift/template.yaml
-  url: https://github.com/fabric8-hdd/supervisor
+  url: https://github.com/fabric8-hdd/data-api-image
